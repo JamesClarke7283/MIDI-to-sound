@@ -1,2 +1,2 @@
-# MIDIPlayer
-Play your MIDI files through a soundfont file of your choosing.
+# MIDI To Sound
+Convert MIDI files to a MP3 with a soundfont file. 
